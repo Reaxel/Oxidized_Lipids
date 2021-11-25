@@ -14,12 +14,7 @@ pxposition/
 │   │   │   ├── md.mdp
 │   │   │   ├── min0.mdp
 │   │   │   ├── min1.mdp
-<<<<<<< HEAD
-│   │   │   ├── system.top
-│   │   │   └── trjout.xtc
-=======
 │   │   │   └── system.top
->>>>>>> fe24e74... tree.dat
 │   │   ├── EED2
 │   │   │   ├── conf.gro
 │   │   │   ├── equ0.mdp
@@ -33,12 +28,7 @@ pxposition/
 │   │   │   ├── md.mdp
 │   │   │   ├── min0.mdp
 │   │   │   ├── min1.mdp
-<<<<<<< HEAD
-│   │   │   ├── system.top
-│   │   │   └── trjout.xtc
-=======
 │   │   │   └── system.top
->>>>>>> fe24e74... tree.dat
 │   │   ├── EED3
 │   │   │   ├── conf.gro
 │   │   │   ├── equ0.mdp
@@ -52,12 +42,7 @@ pxposition/
 │   │   │   ├── md.mdp
 │   │   │   ├── min0.mdp
 │   │   │   ├── min1.mdp
-<<<<<<< HEAD
-│   │   │   ├── system.top
-│   │   │   └── trjout.xtc
-=======
 │   │   │   └── system.top
->>>>>>> fe24e74... tree.dat
 │   │   └── EED4
 │   │       ├── conf.gro
 │   │       ├── equ0.mdp
@@ -71,12 +56,7 @@ pxposition/
 │   │       ├── md.mdp
 │   │       ├── min0.mdp
 │   │       ├── min1.mdp
-<<<<<<< HEAD
-│   │       ├── system.top
-│   │       └── trjout.xtc
-=======
 │   │       └── system.top
->>>>>>> fe24e74... tree.dat
 │   ├── insanex
 │   │   ├── cpconf.sh
 │   │   ├── EED1.gro
@@ -112,12 +92,7 @@ pxposition/
 │   │   ├── md.mdp
 │   │   ├── min0.mdp
 │   │   ├── min1.mdp
-<<<<<<< HEAD
-│   │   ├── system.top
-│   │   └── trjout.xtc
-=======
 │   │   └── system.top
->>>>>>> fe24e74... tree.dat
 │   ├── EEB2
 │   │   ├── conf.gro
 │   │   ├── equ0.mdp
@@ -131,12 +106,7 @@ pxposition/
 │   │   ├── md.mdp
 │   │   ├── min0.mdp
 │   │   ├── min1.mdp
-<<<<<<< HEAD
-│   │   ├── system.top
-│   │   └── trjout.xtc
-=======
 │   │   └── system.top
->>>>>>> fe24e74... tree.dat
 │   ├── EEB3
 │   │   ├── conf.gro
 │   │   ├── equ0.mdp
@@ -150,12 +120,7 @@ pxposition/
 │   │   ├── md.mdp
 │   │   ├── min0.mdp
 │   │   ├── min1.mdp
-<<<<<<< HEAD
-│   │   ├── system.top
-│   │   └── trjout.xtc
-=======
 │   │   └── system.top
->>>>>>> fe24e74... tree.dat
 │   ├── EEB4
 │   │   ├── conf.gro
 │   │   ├── equ0.mdp
@@ -169,12 +134,7 @@ pxposition/
 │   │   ├── md.mdp
 │   │   ├── min0.mdp
 │   │   ├── min1.mdp
-<<<<<<< HEAD
-│   │   ├── system.top
-│   │   └── trjout.xtc
-=======
 │   │   └── system.top
->>>>>>> fe24e74... tree.dat
 │   ├── insanex
 │   │   ├── cpconf.sh
 │   │   ├── EEB1.gro
@@ -211,12 +171,7 @@ pxposition/
 │   │   │   ├── md.mdp
 │   │   │   ├── min0.mdp
 │   │   │   ├── min1.mdp
-<<<<<<< HEAD
-│   │   │   ├── system.top
-│   │   │   └── trjout.xtc
-=======
 │   │   │   └── system.top
->>>>>>> fe24e74... tree.dat
 │   │   ├── EEC2
 │   │   │   ├── conf.gro
 │   │   │   ├── equ0.mdp
@@ -230,12 +185,7 @@ pxposition/
 │   │   │   ├── md.mdp
 │   │   │   ├── min0.mdp
 │   │   │   ├── min1.mdp
-<<<<<<< HEAD
-│   │   │   ├── system.top
-│   │   │   └── trjout.xtc
-=======
 │   │   │   └── system.top
->>>>>>> fe24e74... tree.dat
 │   │   ├── EEC3
 │   │   │   ├── conf.gro
 │   │   │   ├── equ0.mdp
@@ -249,12 +199,7 @@ pxposition/
 │   │   │   ├── md.mdp
 │   │   │   ├── min0.mdp
 │   │   │   ├── min1.mdp
-<<<<<<< HEAD
-│   │   │   ├── system.top
-│   │   │   └── trjout.xtc
-=======
 │   │   │   └── system.top
->>>>>>> fe24e74... tree.dat
 │   │   └── EEC4
 │   │       ├── conf.gro
 │   │       ├── equ0.mdp
@@ -268,12 +213,7 @@ pxposition/
 │   │       ├── md.mdp
 │   │       ├── min0.mdp
 │   │       ├── min1.mdp
-<<<<<<< HEAD
-│   │       ├── system.top
-│   │       └── trjout.xtc
-=======
 │   │       └── system.top
->>>>>>> fe24e74... tree.dat
 │   ├── insanex
 │   │   ├── cpconf.sh
 │   │   ├── EEC1.gro
@@ -294,107 +234,84 @@ pxposition/
 │       ├── EEC3_c3p3r28.itp
 │       ├── EEC4_c3p3r28.itp
 │       └── martini_v2.2.itp
-└── POPC
-    ├── EEA1
-    │   ├── conf.gro
-    │   ├── equ0.mdp
-    │   ├── equ1.mdp
-    │   ├── equ2.mdp
-    │   ├── equ3.mdp
-    │   ├── equ4.mdp
-    │   ├── index.ndx
-    │   ├── martini_v2.0_EEA1_02.itp
-    │   ├── martini_v2.2.itp
-    │   ├── md.mdp
-    │   ├── min0.mdp
-    │   ├── min1.mdp
-<<<<<<< HEAD
-    │   ├── system.top
-    │   └── trjout.xtc
-=======
-    │   └── system.top
->>>>>>> fe24e74... tree.dat
-    ├── EEA2
-    │   ├── conf.gro
-    │   ├── equ0.mdp
-    │   ├── equ1.mdp
-    │   ├── equ2.mdp
-    │   ├── equ3.mdp
-    │   ├── equ4.mdp
-    │   ├── index.ndx
-    │   ├── martini_v2.0_EEA2_02.itp
-    │   ├── martini_v2.2.itp
-    │   ├── md.mdp
-    │   ├── min0.mdp
-    │   ├── min1.mdp
-<<<<<<< HEAD
-    │   ├── system.top
-    │   └── trjout.xtc
-=======
-    │   └── system.top
->>>>>>> fe24e74... tree.dat
-    ├── EEA3
-    │   ├── conf.gro
-    │   ├── equ0.mdp
-    │   ├── equ1.mdp
-    │   ├── equ2.mdp
-    │   ├── equ3.mdp
-    │   ├── equ4.mdp
-    │   ├── index.ndx
-    │   ├── martini_v2.0_EEA3_02.itp
-    │   ├── martini_v2.2.itp
-    │   ├── md.mdp
-    │   ├── min0.mdp
-    │   ├── min1.mdp
-<<<<<<< HEAD
-    │   ├── system.top
-    │   └── trjout.xtc
-=======
-    │   └── system.top
->>>>>>> fe24e74... tree.dat
-    ├── EEA4
-    │   ├── conf.gro
-    │   ├── equ0.mdp
-    │   ├── equ1.mdp
-    │   ├── equ2.mdp
-    │   ├── equ3.mdp
-    │   ├── equ4.mdp
-    │   ├── index.ndx
-    │   ├── martini_v2.0_EEA4_02.itp
-    │   ├── martini_v2.2.itp
-    │   ├── md.mdp
-    │   ├── min0.mdp
-    │   ├── min1.mdp
-<<<<<<< HEAD
-    │   ├── system.top
-    │   └── trjout.xtc
-=======
-    │   └── system.top
->>>>>>> fe24e74... tree.dat
-    ├── insanex
-    │   ├── cpconf.sh
-    │   ├── EEA1.gro
-    │   ├── EEA1.top
-    │   ├── EEA2.gro
-    │   ├── EEA2.top
-    │   ├── EEA3.gro
-    │   ├── EEA3.top
-    │   ├── EEA4.gro
-    │   ├── EEA4.top
-    │   ├── index.ndx
-    │   ├── insanex.py
-    │   └── insanex.sh
-    └── toppar
-        ├── cpitp.sh
-        ├── EEA1.itp
-        ├── EEA2.itp
-        ├── EEA3.itp
-        ├── EEA4.itp
-        ├── martini_v2.0_POPC_02.itp
-        └── martini_v2.2.itp
+├── POPC
+│   ├── EEA1
+│   │   ├── conf.gro
+│   │   ├── equ0.mdp
+│   │   ├── equ1.mdp
+│   │   ├── equ2.mdp
+│   │   ├── equ3.mdp
+│   │   ├── equ4.mdp
+│   │   ├── index.ndx
+│   │   ├── martini_v2.0_EEA1_02.itp
+│   │   ├── martini_v2.2.itp
+│   │   ├── md.mdp
+│   │   ├── min0.mdp
+│   │   ├── min1.mdp
+│   │   └── system.top
+│   ├── EEA2
+│   │   ├── conf.gro
+│   │   ├── equ0.mdp
+│   │   ├── equ1.mdp
+│   │   ├── equ2.mdp
+│   │   ├── equ3.mdp
+│   │   ├── equ4.mdp
+│   │   ├── index.ndx
+│   │   ├── martini_v2.0_EEA2_02.itp
+│   │   ├── martini_v2.2.itp
+│   │   ├── md.mdp
+│   │   ├── min0.mdp
+│   │   ├── min1.mdp
+│   │   └── system.top
+│   ├── EEA3
+│   │   ├── conf.gro
+│   │   ├── equ0.mdp
+│   │   ├── equ1.mdp
+│   │   ├── equ2.mdp
+│   │   ├── equ3.mdp
+│   │   ├── equ4.mdp
+│   │   ├── index.ndx
+│   │   ├── martini_v2.0_EEA3_02.itp
+│   │   ├── martini_v2.2.itp
+│   │   ├── md.mdp
+│   │   ├── min0.mdp
+│   │   ├── min1.mdp
+│   │   └── system.top
+│   ├── EEA4
+│   │   ├── conf.gro
+│   │   ├── equ0.mdp
+│   │   ├── equ1.mdp
+│   │   ├── equ2.mdp
+│   │   ├── equ3.mdp
+│   │   ├── equ4.mdp
+│   │   ├── index.ndx
+│   │   ├── martini_v2.0_EEA4_02.itp
+│   │   ├── martini_v2.2.itp
+│   │   ├── md.mdp
+│   │   ├── min0.mdp
+│   │   ├── min1.mdp
+│   │   └── system.top
+│   ├── insanex
+│   │   ├── cpconf.sh
+│   │   ├── EEA1.gro
+│   │   ├── EEA1.top
+│   │   ├── EEA2.gro
+│   │   ├── EEA2.top
+│   │   ├── EEA3.gro
+│   │   ├── EEA3.top
+│   │   ├── EEA4.gro
+│   │   ├── EEA4.top
+│   │   ├── index.ndx
+│   │   ├── insanex.py
+│   │   └── insanex.sh
+│   └── toppar
+│       ├── cpitp.sh
+│       ├── EEA1.itp
+│       ├── EEA2.itp
+│       ├── EEA3.itp
+│       ├── EEA4.itp
+│       ├── martini_v2.0_POPC_02.itp
+│       └── martini_v2.2.itp
+└── tree.dat
 
-<<<<<<< HEAD
-30 directories, 299 files
-=======
-30 directories, 283 files
->>>>>>> fe24e74... tree.dat
+30 directories, 284 files

@@ -13,12 +13,7 @@ pxlevel/
 │   │   ├── md.mdp
 │   │   ├── min0.mdp
 │   │   ├── min1.mdp
-<<<<<<< HEAD
-│   │   ├── system.top
-│   │   └── trjout.xtc
-=======
 │   │   └── system.top
->>>>>>> fe24e74... tree.dat
 │   └── 067
 │       ├── conf.gro
 │       ├── equ0.mdp
@@ -32,12 +27,7 @@ pxlevel/
 │       ├── md.mdp
 │       ├── min0.mdp
 │       ├── min1.mdp
-<<<<<<< HEAD
-│       ├── system.top
-│       └── trjout.xtc
-=======
 │       └── system.top
->>>>>>> fe24e74... tree.dat
 ├── insanex
 │   ├── 033
 │   │   ├── conf.gro
@@ -49,17 +39,14 @@ pxlevel/
 │   │   └── system.top
 │   ├── insanex.py
 │   └── insanex.sh
-└── toppar
-    ├── cpitp.sh
-    ├── genrstr.sh
-    ├── martini_v2.0_POPC_02.itp
-    ├── martini_v2.2.itp
-    ├── POBU_c3p3r28.itp
-    ├── POBU_c4p2r32.itp
-    └── rstr.itp
+├── toppar
+│   ├── cpitp.sh
+│   ├── genrstr.sh
+│   ├── martini_v2.0_POPC_02.itp
+│   ├── martini_v2.2.itp
+│   ├── POBU_c3p3r28.itp
+│   ├── POBU_c4p2r32.itp
+│   └── rstr.itp
+└── tree.dat
 
-<<<<<<< HEAD
-7 directories, 43 files
-=======
-7 directories, 41 files
->>>>>>> fe24e74... tree.dat
+7 directories, 42 files
