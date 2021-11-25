@@ -1,0 +1,13 @@
+#include "martini_v2.2.itp"
+
+#include "martini_v2.0_EEC4_02.itp"
+
+[ system ]
+; name
+INSANE! Membrane UpperLeaflet>EEC4=512.0 LowerLeaflet>EEC4=512.0
+
+[ molecules ]
+; name  number
+EEC4           256
+EEC4           256
+W             5120
