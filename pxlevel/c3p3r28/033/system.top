@@ -1,0 +1,16 @@
+#include "martini_v2.2.itp"
+
+#include "martini_v2.0_POBU_02.itp"
+#include "martini_v2.0_POPC_02.itp"
+
+[ system ]
+; name
+INSANE! Membrane UpperLeaflet>POPC:POBU=172.0:84.0 LowerLeaflet>POPC:POBU=172.0:84.0
+
+[ molecules ]
+; name  number
+POPC           172
+POBU            84
+POPC           172
+POBU            84
+W             5120
