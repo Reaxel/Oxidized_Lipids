@@ -1,6 +1,5 @@
 #!/bin/bash
 
-toplist="c4p2r32 c3p3r28"
 lipidlist="EED1 EED2 EED3 EED4"
 
 for lipid in $lipidlist

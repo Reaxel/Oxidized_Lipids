@@ -1,4 +1,4 @@
-# Oxidized_lipid
+# Oxidized_lipids_Martini2
 
 0. insanex.py
 Modified version of Martini insane.py to generate lipid bilayer systems containing oxidized lipid models based on Maritni v2.2 12-bead POPC and DOPC.

@@ -1,7 +1,7 @@
 #!/bin/bash
 
-rlist="0.28"
-clist="C3"
+rlist="0.26"
+clist="C2"
 plist="P3"
 
 for c in $clist

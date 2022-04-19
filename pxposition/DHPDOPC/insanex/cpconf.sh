@@ -1,6 +1,6 @@
 #!/bin/bash
 
-toplist="c4p2r32 c3p3r28"
+toplist="c2p3r26"
 lipidlist="EED1 EED2 EED3 EED4"
 
 for top in $toplist
